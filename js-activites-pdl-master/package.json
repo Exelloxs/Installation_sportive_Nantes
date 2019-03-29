@@ -1,0 +1,21 @@
+{
+  "name": "js-activites-pdl",
+  "version": "0.1.0",
+  "description": "Projet utilisant Node.js et Vue.js",
+  "author": "Evann BACALA, Eliot LEVRARD, Adrien MOINE",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "body-parser": "^1.18.3",
+    "csv": "^5.1.1",
+    "csv-parse": "^4.3.4",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "sqlite3": "^4.0.6",
+    "vue": "^2.6.9"
+  },
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": ""
+  },
+  "repository": ""
+}
